@@ -1,0 +1,49 @@
+body {
+    background-image: url('./Green\ Abstract\ Paint\ Texture\ Zoom\ Virtual\ Background.jpg');
+}
+
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:white;
+    text-align:center;
+}
+
+h3 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:whitesmoke;
+    text-align:center;
+}
+
+h4 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:whitesmoke;
+}
+
+ul {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:whitesmoke;
+    text-align:left;
+}
+
+.home-container {
+    text-align:center;
+    color:whitesmoke;
+    font-size:120%;
+    font-weight:50px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    position:fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+}
+
+.pagelinks a:visited {
+    color:gold;
+    font-size:20px;
+}
